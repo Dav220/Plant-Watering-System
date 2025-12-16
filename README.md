@@ -1,6 +1,6 @@
 Arduino-based Plant Watering System
 
-This is my minor assignment of EECS 1021. The assignment consisted of writing a java program that would allow me to water a plant based off of the moisture of the soil. In order to do this, I needed to hook up an arduino grove board to my computer, and use the program to control the grove board. The program that resides on my grove board and my written program would link up and accomplish the task of watering the plant. 
+The assignment consisted of writing a java program that would allow me to water a plant based off of the moisture of the soil. In order to do this, I needed to hook up an arduino grove board to my computer, and use the program to control the grove board. The program that resides on my grove board and my written program would link up and accomplish the task of watering the plant. 
 
 There were multiple tools and pieces of equipment needed to perform this task. I needed the arduino grove board kit that runs firmata, and I needed a device capable of running Java. The arduino grove board is a system of hardware components such as sensors and circuits that run the arduino program on it. By using firmata and firmata4j, I could write the program on my main computer, and send the commands to my board. The various components that come with the board would allow me to measure the moisture and water the plant.
 
