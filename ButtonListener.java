@@ -1,4 +1,4 @@
-package eecs1021;
+package plant_project;
 import org.firmata4j.*;
 import org.firmata4j.IOEvent;
 import org.firmata4j.Pin;
